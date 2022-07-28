@@ -51,27 +51,24 @@ and TODOs. You have 48 hours to send your PR and Answer the questions, complete 
 
   In your PR/patch email, please also answer these following questions:
 
-  - What design patterns did you use inside the application?
-  - How did you manage your states?
-  - What data protocol did you use to connect both backend and frontend?
-    + Is this the best way to integrate data?
-    + If yes, Why?
-    + If no, Can you suggest more better ways?
-  - What libraries did you use?
-    + Why did you use this library?
-    + Are there other libraries available?
-    + If yes, what made you choose this library over the others?
-  - What major challenges did you encounter when making the app?
-  - If you had more time, what additional features would you like to
-    add?
+  What design patterns did you use inside the application?
+  - Repository PatternHow did you manage your states?What data protocol did you use to connect both backend and frontend?
+  - I used HTTP Protocol
+  Is this the best way to integrate data?
+  - Based on my experience HTTP is the best way to integrate data.If yes, Why?
+  -  HTTP is an extensible protocol that is easy to use and it is readable.If no, Can you suggest more better ways?What libraries did you use?Why did you use this library?
+  - I did not used libraryAre there other libraries available?If yes, what made you choose this library over the others?What major challenges did you encounter when making the app?
+  - The challenges that I encountered while making the app is making it from scratch, because in my previous experiences I have only maintained a system and the Front-end side.If you had more time, what additional features would you like to add?
+  - If I had more time, the features I would like to add is the Authentication to make each users their own To do and Notes and I would also like to add the API's functions
 
   In addition, you may provide more information in your PR/patch email
   that you would like us to know.
 
 ## Bonus Questions
   - Explain Hoisting to a 5 year old kid.
+    -I'm not that familiar in Hoisting, but based from my understanding,if I were to explain Hoisting to a 5 year old kid, I will compare it to a free taste ice cream, you will be able to taste it but it is not yet yours if you haven't bought it.
   - Explain Memoization to a 5 year old kid.
-
+    - If I were to explain Memoization to child I will compare it to giving reward when he/she is being obient and being a good kid, so that he/she will be motivated to do good and be obedient. 
 ## Notes
 
   - You may use any open source libraries that you think would be useful
